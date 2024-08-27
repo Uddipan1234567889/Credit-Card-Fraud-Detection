@@ -37,7 +37,10 @@ To run this project locally, follow these steps:
 
 2. Install the necessary dependencies:
     ```bash
-    pip install -r requirements.txt
+    import pandas as pd
+    import numpy as np
+    import keras
+    from matplotlib import pyplot as plt
     ```
 
 3. Run the Jupyter Notebook (or Python script) to train the model and make predictions:

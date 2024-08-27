@@ -12,7 +12,7 @@
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+
 
 ## Project Overview
 
